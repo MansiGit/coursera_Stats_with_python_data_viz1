@@ -9,3 +9,7 @@
 7. population proportion confidence interval assumptions: 
 8. Margin of error - A range of error that tells you how many percentage points your results will differ from the real population value. The margin of error is the range of values below and above the sample statistic in a confidence interval. The confidence interval is a way to show what the uncertainty is with a certain statistic (i.e. from a poll or survey). For example, a 95% confidence interval with a 4 percent margin of error means that your statistic will be within 4 percentage points of the real population value 95% of the time.
 10. Minority
+
+Week 2 Assessment 1 : Napping and Non-Napping Toddlers Article for Python Assessment
+
+1. degrees of freedom : The degrees of freedom (DF) in statistics indicate the number of independent values that can vary in an analysis without breaking any constraints.
